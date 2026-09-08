@@ -1,0 +1,12 @@
+Spanish playing card artwork by Basquetteur (Wikimedia Commons).
+Vectorized SVG collection by gjenkins20.
+Converted to WebP and resized for TRUCO LOOP.
+
+Source artwork:
+https://commons.wikimedia.org/wiki/File:Baraja_de_40_cartas.png
+
+Vector source:
+https://github.com/gjenkins20/spanish-playing-cards-svg
+
+License: Creative Commons Attribution-ShareAlike 3.0 Unported
+https://creativecommons.org/licenses/by-sa/3.0/
